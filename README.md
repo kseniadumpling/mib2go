@@ -27,3 +27,5 @@ Please note that symlinks under `/usr/share/snmp/mibs/` won't work, so for any S
 ./mib2go generate -M +/var/lib/snmp/mibs/iana,+/var/lib/snmp/mibs/ietf IF-MIB
 ``` 
 
+## Examples
+The example with simple description can be found under [example directory](./example).
