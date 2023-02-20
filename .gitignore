@@ -1,0 +1,6 @@
+# IDE
+.idea
+.vscode
+
+# binary
+mib2go
